@@ -1,0 +1,44 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: black;
+}
+.heading{
+	color: white;
+	text-align: center;
+	text-align: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    font-weight: bold;
+	}
+.photo{
+	margin: 5px;
+	padding: 10px;
+	width: 370px;
+	height: 400px;
+}
+.photo:hover{
+	opacity: 2;
+	background-color: white;
+}
+.photo-aboutus{
+	padding: 30px;
+	width: 400px;
+	height: 500px;
+}
+p{
+	font-family: sans-serif;
+	color: white;
+	text-align: left;
+	font-weight: bold;
+	padding: 10px;
+}
+.heading-aboutus{
+	color: white;
+	text-align: left;
+    padding-bottom:20px; 
+    padding-top:20px; 
+    font-weight: bolder;
+	}
